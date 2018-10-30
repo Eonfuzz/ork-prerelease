@@ -1,9 +1,9 @@
 # Ork Pre-release file
 
 To use:
-  1. Download File
+  1. Download Orks-Prerelease.catz
   2. Place into Battlescribe Warhammer 40,000k Edition folder
-    Found at: Users\Eonfuzz\BattleScribe\data\Warhammer 40,000 8th Edition
+    Found at: `.\Users\Eonfuzz\BattleScribe\data\Warhammer 40,000 8th Edition\`
   3. Create a new army using Ork-Prerelease
   
 ## Known Issues
