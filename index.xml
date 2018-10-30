@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<dataIndex battleScribeVersion="2.01" name="Ork-Prerelease" xmlns="http://www.battlescribe.net/schema/dataIndexSchema">
-  <repositoryUrls/>
-  <dataIndexEntries>
-    <dataIndexEntry filePath="Warhammer 40,000 8th Edition.gstz" dataType="gamesystem" dataId="28ec-711c-d87f-3aeb" dataName="Warhammer 40,000 8th Edition" dataBattleScribeVersion="2.01" dataRevision="58"/>
-    <dataIndexEntry filePath="Orks-Prerelease.catz" dataType="catalogue" dataId="11b5-77b9-31bf-7b74" dataName="Orks - Prerelease" dataBattleScribeVersion="2.01" dataRevision="18"/>
-  </dataIndexEntries>
-</dataIndex>
