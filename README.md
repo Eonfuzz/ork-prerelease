@@ -2,7 +2,7 @@
 Hello Gits!
 
 I've thrown together a Battlescribe file using what's been leaked of the upcoming Codex so far.
-This includes Points, Relics, Warlord traits and rules.
+This includes ork changes, buggies, new wagons, relics, traits and even the powers of da WAAAAGH!
 
 ## Usage
 To use:
@@ -15,8 +15,4 @@ To use:
      
      iOS: TODO
   3. Create a new army using Ork-Prerelease
-  
-## Known Issues
-These will be fixed when I get a bit more time. It's late right now =(
-### No new buggies (This will come soon!)
-### Not all Warlord Relics are in
+ 
